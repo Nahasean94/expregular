@@ -1,0 +1,11 @@
+{
+  "name": "expregular",
+  "version": "1.0.0",
+  "description": "An app to help you learn regular expressions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean",
+  "license": "ISC"
+}
